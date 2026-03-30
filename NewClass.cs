@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace vjezba1
+﻿namespace vjezba1
 {
-    internal class NewClass
+    public class NewClass
     {
-        //promjena
+      
+        public void MojaNovaMetoda()
+        {
+            // prazna metoda
+        }
     }
 }
